@@ -7,9 +7,16 @@ Questions:
 Introduction to GitHub:
 
 What is GitHub, and what are its primary functions and features? Explain how it supports collaborative software development.
+Github is an online site where we can write and store codes and it is also a site where we can collaborate with others and work on projects. 
+Functions and features
+1. it helps to keep track of changes made to a project
+2. it 
+
 Repositories on GitHub:
+Repositories are storage for my project. There is both public and private repositories, the private repo restricts my work but the public repositories can be viewed by others.
 
 What is a GitHub repository? Describe how to create a new repository and the essential elements that should be included in it.
+
 Version Control with Git:
 
 Explain the concept of version control in the context of Git. How does GitHub enhance version control for developers?
